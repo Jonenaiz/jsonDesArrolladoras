@@ -1,0 +1,94 @@
+[
+    {
+        "superNombre": "Eroski",
+        "localidad": "Matiena",
+        "seccion": [
+            {
+                "nombre": "glutenfree",
+                "caracteristicas": [
+                    {
+                        "producto": "pan de molde",
+                        "disponible": true,
+                        "precio": 4,
+                        "marca": "truly"
+                    },
+                    {
+                        "producto": "galletas de chocolate",
+                        "disponible": false,
+                        "precio": 2.5,
+                        "marca": "nini"
+                    }
+                ]
+            },
+            {
+                "nombre": "verduras",
+                "caracteristicas": [
+                    {
+                        "producto": "alcachofa",
+                        "disponible": false,
+                        "precio": 1.25,
+                        "marca": "caserio"
+                    },
+                    {
+                        "producto": "tomates",
+                        "disponible": true,
+                        "precio": 1.43,
+                        "marca": "caserio"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "superNombre": "Lidl",
+        "localidad": "Durango",
+        "seccion": [
+            {
+                "nombre": "pescaderia",
+                "caracteristicas": [
+                    {
+                        "producto": "anchoas",
+                        "disponible": false,
+                        "precio": 19,
+                        "marca": "Lekeitio"
+                    },
+                    {
+                        "producto": "pulpo",
+                        "disponible": true,
+                        "precio": 20,
+                        "marca": "es fresco"
+                    }
+                ]
+            },
+            {
+                "nombre": "glutenfree",
+                "caracteristicas":[
+                    {
+                        "producto": "pasta",
+                        "disponible": true,
+                        "precio": 1,
+                        "marca": "truly"
+                    },
+                    {
+                        "producto": "espagueti",
+                        "disponible": false,
+                        "precio": 2.5,
+                        "marca": "nini"
+                    }
+                ]
+            },
+            {
+                "nombre": "verduras",
+                "caracteristicas":[
+                    {
+                        "producto": "puerros",
+                        "disponible": false,
+                        "precio": 1.25,
+                        "marca": "caserio"
+                    }
+                ]
+            }
+
+        ]
+    }
+]
